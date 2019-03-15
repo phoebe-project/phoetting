@@ -1,0 +1,2 @@
+# phoetting
+PHOEBE fitting challenge
